@@ -39,7 +39,7 @@ Further, the analysis of the vine program conducted after the extraction, transf
 - Number of Non-Vine reviews
 ![image](Resources/Non_Vine_Review.png)
 
-57,608 non vine reviews were conducted out of 63,329 total reviews above the top 20 mark.
+57,608 non-vine reviews were conducted out of 63,329 total reviews above the top 20 mark.
 
 - How many Vine reviews were 5 stars?
 ![image](Resources/Five_Star_Reviews.png)
@@ -48,14 +48,14 @@ Further, the analysis of the vine program conducted after the extraction, transf
 - 5 stars Non-Vine reviews
 ![image](Resources/Non_Vine_Review.png)
 
-30,643 five stars reviews conducted on the sample of non vine population.
+30,643 five stars reviews conducted on the sample of non-vine population.
 
 - Percentage of Vine and Non_Vine reviews
 ![image](Resources/Pctg_Review.png)
 
-The percentage of five stars vine reviews was 41.3% while the non vine five stars reviews percentage was 53%.
+The percentage of five stars vine reviews was 41.3% while the non-vine five stars reviews percentage was 53%.
 
 ## Summary
-- From the results, non vine reviews provide a large sample and results which are considered interesting despite not having an initiaive to do so. They represent the consulers of the sports apparel products. 
+- From the results, non-vine reviews provide a large sample and results which are considered interesting despite not having an initiative to do so. They represent the consumers of the sports apparel products. 
   
-- A new analysis on the sample to include the demography of the vine reviewers. We shall have and include a mixte of users and genders in the datasets to draw conclusion on the results of the reviews.
+- A new analysis on the sample to include the demography and a mixture of users and genders in the dataset for more conclusive results of the reviews.
